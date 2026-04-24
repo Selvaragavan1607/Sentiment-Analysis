@@ -159,6 +159,3 @@ Response:
 See `sample_data/sentiment_dataset.csv`. Replace with a larger dataset (e.g. Sentiment140, Twitter US Airline Sentiment) for production accuracy.
 
 ---
-
-## 📜 License
-MIT — for educational / lab use.
